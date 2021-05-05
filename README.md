@@ -52,7 +52,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [CSS Nesting Is Coming Soon! 🤯 How To Nest Selector Styles TODAY!! (2021)](https://www.youtube.com/watch?v=a8ZdCZVSr4M)
+- [More Vlogs Comming Soon | When Covid will die (2021)](https://www.youtube.com/watch?v=a8ZdCZVSr4M)
 - [Watch Modern-Day Villa in Delhi-NCR (2019)](https://www.youtube.com/watch?v=YpzZKuSinyI&t=13s)
 <!-- YOUTUBE:END -->
 
@@ -85,3 +85,7 @@
 [youtube]: https://youtube.com/sarthakhanda
 [instagram]: https://instagram.com/sarthakhanda
 [linkedin]: https://linkedin.com/in/sarthakhanda
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
