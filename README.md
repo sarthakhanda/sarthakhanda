@@ -1,9 +1,10 @@
-### Hi there, I'm Sarthak - aka [Handa][website] 👋
+# Hi there, I'm Sarthak - aka [Handa][website] 👋
 
-[![Website](https://img.shields.io/website?label=sarthakhanda.com&style=for-the-badge&url=https://sarthakhanda.github.io/myResume/)](https://sarthakhanda.github.io/myResume/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SarthakHanda10?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSarthakHanda10&screen_name=SarthakHanda10)
+[![Website](https://img.shields.io/website?label=sarthakhanda.com&style=for-the-badge&url=https://sarthakhanda.github.io/myResume/)][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/SarthakHanda10?color=1DA1F2&logo=twitter&style=for-the-badge)][twitterfollow]
+[![Instagram Follow](https://img.shields.io/instagram/follow/sarthakhanda?color=1DA1F2&logo=instagram&style=for-the-badge)][instagramfollow]
 
-## Genius, Developer, Philanthropist & Gentleman!!
+## Genius, Developer, Philanthropist & Gentleman.
 
 - 🔭 I just launched my first vlog: [A David Dobrik Vlog!][vlog]
 - 🌱 I’m currently learning everything 🤣
@@ -19,9 +20,7 @@
 
 [<img src="https://now-playing-31ps7jbzdwihlxd7lkri6ajic4gy.vercel.app/api/spotify-playing" alt="Sarthak Handa's Spotify Playing" width="350" />](https://open.spotify.com/user/31ps7jbzdwihlxd7lkri6ajic4gy)
 
----
-
-### 📺 Latest YouTube Videos
+### Latest YouTube Videos 📺
 
 <!-- YOUTUBE:START -->
 - [A David Dobrik Vlog | My First Vlog](https://www.youtube.com/watch?v=a8ZdCZVSr4M)
@@ -30,7 +29,7 @@
 
 ---
 
-### Connect with me:
+### 🔗 Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='sarthakhanda | GitHub' height='40'>](https://github.com/sarthakhanda)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='sarthakhanda | GitLab' height='40'>](https://gitlab.com/sarthakhanda)
@@ -40,9 +39,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='sarthakhanda | YouTube' height='40'>][youtube]
 [<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='sarthakhanda | Website' height='40'>][website]
 
----
-
-### Languages and Tools:
+### 👨‍💻 Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -75,10 +72,11 @@
 
 [vlog]: https://www.youtube.com/watch?v=a8ZdCZVSr4M
 [website]: https://sarthakhanda.github.io/myResume/
-[twitter]: https://twitter.com/sarthakhanda10
 [youtube]: https://www.youtube.com/channel/UCTCFsMfJEnfAr8e8etJbSbg
-[instagram]: https://instagram.com/sarthakhanda
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSarthakHanda10&screen_name=SarthakHanda10
+[instagram]: https://instagram.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsarthakhanda&screen_name=sarthakhanda
 [linkedin]: https://www.linkedin.com/in/sarthak-handa-8491961aa/
+
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
