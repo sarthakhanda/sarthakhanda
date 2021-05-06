@@ -1,8 +1,8 @@
-# Hi there, I'm Sarthak - aka [Handa][website] 👋
+### Hi there, I'm Sarthak - aka [Handa][website] 👋
 
 [![Website](https://img.shields.io/website?label=sarthakhanda.com&style=for-the-badge&url=https://sarthakhanda.github.io/myResume/)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/SarthakHanda10?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
-[![Instagram Follow](https://img.shields.io/instagram/follow/sarthakhanda?color=1DA1F2&logo=instagram&style=for-the-badge)][instagram]
+[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
 ## Genius, Developer, Philanthropist & Gentleman.
 
@@ -74,7 +74,7 @@
 [website]: https://sarthakhanda.github.io/myResume/
 [youtube]: https://www.youtube.com/channel/UCTCFsMfJEnfAr8e8etJbSbg
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSarthakHanda10&screen_name=SarthakHanda10
-[instagram]: https://instagram.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsarthakhanda&screen_name=sarthakhanda
+[instagram]: https://www.instagram.com/sarthakhanda/
 [linkedin]: https://www.linkedin.com/in/sarthak-handa-8491961aa/
 
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
