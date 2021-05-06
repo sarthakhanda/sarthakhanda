@@ -52,13 +52,8 @@
 ---
 
 ### 📺 Latest YouTube Videos
-
 <!-- YOUTUBE:START -->
-- [More Vlogs Comming Soon | When Covid will die (2021)](https://www.youtube.com/watch?v=a8ZdCZVSr4M)
-- [Watch Modern-Day Villa in Delhi-NCR (2019)](https://www.youtube.com/watch?v=YpzZKuSinyI&t=13s)
 <!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/sarthakhanda)
 
 ---
 
