@@ -52,6 +52,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
+<br/>
 ---
 
 ### 📺 Latest YouTube Videos
@@ -62,13 +63,12 @@
 ---
 
 ### 📈 GitHub Stats
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakhanda&show_icons=true)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sarthakhanda)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakhanda)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=sarthakhanda)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![GitHub metrics](https://metrics.lecoq.io/sarthakhanda)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sarthakhanda)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sarthakhanda)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakhanda)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakhanda&show_icons=true)  
 
 [website]: https://sarthakhanda.github.io/myResume/
 [twitter]: https://twitter.com/sarthakhanda10
