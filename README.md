@@ -73,6 +73,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakhanda&show_icons=true)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sarthakhanda) -->
 
+[vlog]: https://www.youtube.com/watch?v=a8ZdCZVSr4M
 [website]: https://sarthakhanda.github.io/myResume/
 [twitter]: https://twitter.com/sarthakhanda10
 [youtube]: https://www.youtube.com/channel/UCTCFsMfJEnfAr8e8etJbSbg
