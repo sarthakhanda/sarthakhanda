@@ -77,9 +77,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakhanda&show_icons=true&count_private=true)
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakhanda&show_icons=true)
-  <img align="left" alt="sarthakhanda's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sarthakhanda&show_icons=true&hide_border=true" />
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakhanda&show_icons=true)  
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sarthakhanda)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakhanda)](https://github.com/anuraghazra/github-readme-stats)
   [![trophy](https://github-profile-trophy.vercel.app/?username=sarthakhanda)](https://github.com/ryo-ma/github-profile-trophy)
