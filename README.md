@@ -15,18 +15,16 @@
 
 ---
 
-### Spotify Playing 🎧
+### 🎧 Spotify Playing
 
 [<img src="https://now-playing-31ps7jbzdwihlxd7lkri6ajic4gy.vercel.app/api/spotify-playing" alt="Sarthak Handa's Spotify Playing" width="350" />](https://open.spotify.com/user/31ps7jbzdwihlxd7lkri6ajic4gy)
 
-### Latest YouTube Videos 📺
+### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [A David Dobrik Vlog | My First Vlog](https://www.youtube.com/watch?v=a8ZdCZVSr4M)
 - [Modern-Day Villa in Delhi-NCR](https://www.youtube.com/watch?v=YpzZKuSinyI)
 <!-- YOUTUBE:END -->
-
----
 
 ### 🔗 Connect with me:
 
