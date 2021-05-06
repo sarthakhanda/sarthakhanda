@@ -27,8 +27,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='sarthakhanda | YouTube' height='40'>](https://www.youtube.com/channel/sarthakhanda)
 [<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='sarthakhanda | Website' height='40'>](https://sarthakhanda.github.io/myResume/)    
 
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
