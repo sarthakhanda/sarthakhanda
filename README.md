@@ -13,9 +13,13 @@
  
 ![Profile views](https://gpvc.arturio.dev/sarthakhanda)
 
+---
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-31ps7jbzdwihlxd7lkri6ajic4gy.vercel.app/api/spotify-playing" alt="Sarthak Handa's Spotify Playing" width="350" />](https://open.spotify.com/user/31ps7jbzdwihlxd7lkri6ajic4gy)
+
+---
 
 ### Connect with me:
 
@@ -25,7 +29,9 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='sarthakhanda | Instagram' height='40'>](https://www.instagram.com/sarthakhanda/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='sarthakhanda | Twitter' height='40'>](https://twitter.com/SarthakHanda10)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='sarthakhanda | YouTube' height='40'>](https://www.youtube.com/channel/sarthakhanda)
-[<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='sarthakhanda | Website' height='40'>](https://sarthakhanda.github.io/myResume/)    
+[<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='sarthakhanda | Website' height='40'>](https://sarthakhanda.github.io/myResume/)
+
+---
 
 ### Languages and Tools:
 
@@ -46,50 +52,29 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-<br />
-<br />
-
 ---
 
 ### 📺 Latest YouTube Videos
+
 <!-- YOUTUBE:START -->
-- [A David Dobrik Vlog | My First Vlog](https://www.youtube.com/watch?v=a8ZdCZVSr4M)
-- [Modern-Day Villa in Delhi-NCR](https://www.youtube.com/watch?v=YpzZKuSinyI)
 <!-- YOUTUBE:END -->
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+### 📈 GitHub Stats
   
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/sarthakhanda/spotify-now-playing/pull/1) in [sarthakhanda/spotify-now-playing](https://github.com/sarthakhanda/spotify-now-playing)
-2. 🗣 Commented on [#1](https://github.com/sarthakhanda/spotify-now-playing/issues/1) in [sarthakhanda/spotify-now-playing](https://github.com/sarthakhanda/spotify-now-playing)
-3. ❗️ Closed issue [#8](https://github.com/sarthakhanda/free-developer-resources/issues/8) in [sarthakhanda/free-developer-resources](https://github.com/sarthakhanda/free-developer-resources)
-4. 🗣 Commented on [#8](https://github.com/sarthakhanda/free-developer-resources/issues/8) in [sarthakhanda/free-developer-resources](https://github.com/sarthakhanda/free-developer-resources)
-5. 🗣 Commented on [#7](https://github.com/sarthakhanda/free-developer-resources/issues/7) in [sarthakhanda/free-developer-resources](https://github.com/sarthakhanda/free-developer-resources)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakhanda&show_icons=true)  
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sarthakhanda)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakhanda)](https://github.com/anuraghazra/github-readme-stats)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sarthakhanda)](https://github.com/ryo-ma/github-profile-trophy)
-  ![GitHub metrics](https://metrics.lecoq.io/sarthakhanda)
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sarthakhanda)
-  
-</details>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakhanda&show_icons=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sarthakhanda)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakhanda)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sarthakhanda)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub metrics](https://metrics.lecoq.io/sarthakhanda)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sarthakhanda)
 
 [website]: https://sarthakhanda.github.io/myResume/
-[vlog]: https://www.youtube.com/watch?v=a8ZdCZVSr4M&list=LL&index=1
-[twitter]: https://twitter.com/sarthakhanda
-[youtube]: https://youtube.com/sarthakhanda
+[twitter]: https://twitter.com/sarthakhanda10
+[youtube]: https://www.youtube.com/channel/UCTCFsMfJEnfAr8e8etJbSbg
 [instagram]: https://instagram.com/sarthakhanda
-[linkedin]: https://linkedin.com/in/sarthakhanda
+[linkedin]: https://www.linkedin.com/in/sarthak-handa-8491961aa/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
