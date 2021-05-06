@@ -19,11 +19,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sarthakhanda.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="sarthakhanda | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="sarthakhanda | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sarthakhanda | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sarthakhanda | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='sarthakhanda | GitHub' height='40'>](https://github.com/sarthakhanda)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='sarthakhanda | GitLab' height='40'>](https://gitlab.com/sarthakhanda)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='sarthakhanda | LinkedIn' height='40'>](https://www.linkedin.com/in/sarthak-handa-8491961aa/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='sarthakhanda | Instagram' height='40'>](https://www.instagram.com/sarthakhanda/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='sarthakhanda | Twitter' height='40'>](https://twitter.com/SarthakHanda10)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='sarthakhanda | YouTube' height='40'>](https://www.youtube.com/channel/sarthakhanda)
+[<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='sarthakhanda | Website' height='40'>](https://sarthakhanda.github.io/myResume/)    
 
 <br />
 
