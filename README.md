@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=sarthakhanda.com&style=for-the-badge&url=https://sarthakhanda.github.io/myResume/)](https://sarthakhanda.github.io/myResume/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SarthakHanda10?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSarthakHanda10&screen_name=SarthakHanda10)
+![Profile views](https://gpvc.arturio.dev/sarthakhanda)  
 
 ## Genius, Developer, Philanthropist & Gentleman!!
 
@@ -13,7 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-sarthakhanda.vercel.app/api/spotify-playing" alt="Sarthak Handa's Spotify Playing" width="350" />](https://open.spotify.com/user/31ps7jbzdwihlxd7lkri6ajic4gy)
+[<img src="https://now-playing-31ps7jbzdwihlxd7lkri6ajic4gy.vercel.app/api/spotify-playing" alt="Sarthak Handa's Spotify Playing" width="350" />](https://open.spotify.com/user/31ps7jbzdwihlxd7lkri6ajic4gy)
 
 ### Connect with me:
 
@@ -76,7 +77,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakhanda&show_icons=true&count_private=true)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakhanda&show_icons=true)
   <img align="left" alt="sarthakhanda's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sarthakhanda&show_icons=true&hide_border=true" />
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sarthakhanda)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakhanda)](https://github.com/anuraghazra/github-readme-stats)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=sarthakhanda)](https://github.com/ryo-ma/github-profile-trophy)
+  ![GitHub metrics](https://metrics.lecoq.io/sarthakhanda)
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sarthakhanda)
   
 </details>
 
