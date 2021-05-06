@@ -1,8 +1,7 @@
-### Hi there, I'm Sarthak - aka [Handa][website] 👋
+### Hi there, I'm Sarthak - aka [Handa][website] 👋 ![Profile views](https://gpvc.arturio.dev/sarthakhanda)
 
 [![Website](https://img.shields.io/website?label=sarthakhanda.com&style=for-the-badge&url=https://sarthakhanda.github.io/myResume/)](https://sarthakhanda.github.io/myResume/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SarthakHanda10?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSarthakHanda10&screen_name=SarthakHanda10)
-![Profile views](https://gpvc.arturio.dev/sarthakhanda?color=1DA1F2&style=for-the-badge)  
 
 ## Genius, Developer, Philanthropist & Gentleman!!
 
