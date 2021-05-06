@@ -21,15 +21,22 @@
 
 ---
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
 ### Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='sarthakhanda | GitHub' height='40'>](https://github.com/sarthakhanda)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='sarthakhanda | GitLab' height='40'>](https://gitlab.com/sarthakhanda)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='sarthakhanda | LinkedIn' height='40'>](https://www.linkedin.com/in/sarthak-handa-8491961aa/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='sarthakhanda | Instagram' height='40'>](https://www.instagram.com/sarthakhanda/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='sarthakhanda | Twitter' height='40'>](https://twitter.com/SarthakHanda10)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='sarthakhanda | YouTube' height='40'>](https://www.youtube.com/channel/sarthakhanda)
-[<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='sarthakhanda | Website' height='40'>](https://sarthakhanda.github.io/myResume/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='sarthakhanda | LinkedIn' height='40'>][linkedin]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='sarthakhanda | Instagram' height='40'>][instagram]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='sarthakhanda | Twitter' height='40'>][twitter]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='sarthakhanda | YouTube' height='40'>][youtube]
+[<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='sarthakhanda | Website' height='40'>][website]
 
 ---
 
@@ -53,12 +60,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br/>
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
 
 ---
 
