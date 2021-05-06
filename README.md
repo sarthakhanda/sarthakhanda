@@ -24,6 +24,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A David Dobrik Vlog | My First Vlog](https://www.youtube.com/watch?v=a8ZdCZVSr4M)
+- [Modern-Day Villa in Delhi-NCR](https://www.youtube.com/watch?v=YpzZKuSinyI)
 <!-- YOUTUBE:END -->
 
 ---
