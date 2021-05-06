@@ -66,10 +66,10 @@
 ### 📈 GitHub Stats
 
 ![GitHub metrics](https://metrics.lecoq.io/sarthakhanda)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakhanda)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakhanda)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sarthakhanda)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakhanda&show_icons=true)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sarthakhanda)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sarthakhanda) -->
 
 [website]: https://sarthakhanda.github.io/myResume/
 [twitter]: https://twitter.com/sarthakhanda10
