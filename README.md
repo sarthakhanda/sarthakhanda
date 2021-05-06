@@ -9,12 +9,11 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: [### Connect with me] 
 - ⚡ Fun fact: I love cars and watches 💸
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-sarthakhanda.vercel.app/api/spotify-playing" alt="Sarthak Handa Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-sarthakhanda.vercel.app/api/spotify-playing" alt="Sarthak Handa's Spotify Playing" width="350" />](https://open.spotify.com/user/	31ps7jbzdwihlxd7lkri6ajic4gy)
 
 ### Connect with me:
 
