@@ -11,6 +11,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love cars and watches 💸
 
+[![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakhanda)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-sarthakhanda.vercel.app/api/spotify-playing" alt="Sarthak Handa Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
@@ -75,7 +77,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+  
   <img align="left" alt="sarthakhanda's GitHub Stats" src="https://github-readme-stats.sarthakhanda.vercel.app/api?username=sarthakhanda&show_icons=true&hide_border=true" />
 </details>
 
