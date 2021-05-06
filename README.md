@@ -1,14 +1,13 @@
 ## Hi there, I'm Sarthak - aka [Handa][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SarthakHanda10?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 [![Website](https://img.shields.io/website?label=sarthakhanda.com&style=for-the-badge&url=https://sarthakhanda.github.io/myResume/)][website]
-[![Instagram Follow](https://img.shields.io/twitter/follow/sarthakhanda?color=1DA1F2&logo=instagram&style=for-the-badge)][instagram]
+[![Twitter Follow](https://img.shields.io/twitter/follow/SarthakHanda10?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 ## Genius, Developer, Philanthropist & Gentleman.
 
 - 🔭 I just launched my first vlog: [A David Dobrik Vlog!][vlog]
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to learn from other Developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love cars and watches 💸
  
@@ -39,7 +38,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='sarthakhanda | YouTube' height='40'>][youtube]
 [<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='sarthakhanda | Website' height='40'>][website]
 
-### 👨‍💻 Languages and Tools:
+### 💻 Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -72,10 +71,10 @@
 
 [vlog]: https://www.youtube.com/watch?v=a8ZdCZVSr4M
 [website]: https://sarthakhanda.github.io/myResume/
-[youtube]: https://www.youtube.com/channel/UCTCFsMfJEnfAr8e8etJbSbg
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSarthakHanda10&screen_name=SarthakHanda10
 [instagram]: https://www.instagram.com/sarthakhanda/
 [linkedin]: https://www.linkedin.com/in/sarthak-handa-8491961aa/
+[youtube]: https://www.youtube.com/channel/UCTCFsMfJEnfAr8e8etJbSbg
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSarthakHanda10&screen_name=SarthakHanda10
 
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
