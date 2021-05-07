@@ -17,7 +17,7 @@
 
 ### 🎧 Spotify Playing
 
-[<img src="https://now-playing-31ps7jbzdwihlxd7lkri6ajic4gy.vercel.app/api/spotify-playing" alt="Sarthak Handa's Spotify Playing" width="350" />](https://open.spotify.com/user/31ps7jbzdwihlxd7lkri6ajic4gy)
+[<img src="https://novatorem-sarthakhanda.vercel.app/api/spotify-playing" alt="Sarthak Handa's Spotify Playing" width="350" />](https://open.spotify.com/user/31ps7jbzdwihlxd7lkri6ajic4gy)
 
 ### 📺 Latest YouTube Videos
 
