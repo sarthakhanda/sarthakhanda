@@ -17,7 +17,7 @@
 
 ### 🎧 Spotify Playing
 
-[![Spotify](https://nowplayingspotify.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://nowplayingspotify.vercel.app/api/spotify)][Spotify]
 
 ### 📺 Latest YouTube Videos
 
@@ -68,6 +68,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sarthakhanda) -->
 
 [vlog]: https://www.youtube.com/watch?v=a8ZdCZVSr4M
+[Spotify]: https://open.spotify.com/user/31ps7jbzdwihlxd7lkri6ajic4gy
 [website]: https://sarthakhanda.github.io/myResume/
 [instagram]: https://www.instagram.com/sarthakhanda/
 [linkedin]: https://www.linkedin.com/in/sarthak-handa-8491961aa/
