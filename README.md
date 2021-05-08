@@ -26,6 +26,16 @@
 - [Modern-Day Villa in Delhi-NCR](https://www.youtube.com/watch?v=YpzZKuSinyI)
 <!-- YOUTUBE:END -->
 
+### 🔗 Connect with me:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='sarthakhanda | GitHub' height='40'>](https://github.com/sarthakhanda)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='sarthakhanda | GitLab' height='40'>](https://gitlab.com/sarthakhanda)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='sarthakhanda | YouTube' height='40'>][youtube]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='sarthakhanda | Instagram' height='40'>][instagram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='sarthakhanda | LinkedIn' height='40'>][linkedin]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='sarthakhanda | Twitter' height='40'>][twitter]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='sarthakhanda | Website' height='40'>][website]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ### 💻 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -45,15 +55,7 @@
 <img align="left" alt="GitHub" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 <img align="left" alt="GitLab" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png" />
 
-### 🔗 Connect with me:
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='sarthakhanda | GitHub' height='40'>](https://github.com/sarthakhanda)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='sarthakhanda | GitLab' height='40'>](https://gitlab.com/sarthakhanda)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='sarthakhanda | YouTube' height='40'>][youtube]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='sarthakhanda | Instagram' height='40'>][instagram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='sarthakhanda | LinkedIn' height='40'>][linkedin]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='sarthakhanda | Twitter' height='40'>][twitter]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='sarthakhanda | Website' height='40'>][website]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br/><br/><br/>
 
 ---
 
