@@ -48,7 +48,6 @@
 <img align="left" alt="HTML5" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" />
 <img align="left" alt="CSS3" width="34px" src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" />
 <img align="left" alt="JavaScript" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
-<img align="left" alt="Node.js" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="34px" src="https://i2.wp.com/blogs.perficient.com/files/2015/09/Azure-SQL-Database.png" />
 <img align="left" alt="MySQL" width="34px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />
 <img align="left" alt="Terminal" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
