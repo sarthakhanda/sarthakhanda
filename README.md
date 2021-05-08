@@ -17,7 +17,7 @@
 
 ### 🎧 Spotify Playing
 
-[<img src="https://novatorem-sarthakhanda.vercel.app/api/spotify-playing" alt="Sarthak Handa's Spotify Playing" width="350" />](https://open.spotify.com/user/31ps7jbzdwihlxd7lkri6ajic4gy)
+[![Spotify](https://nowplayingspotify.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 ### 📺 Latest YouTube Videos
 
