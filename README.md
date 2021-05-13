@@ -69,7 +69,7 @@
 
 [vlog]: https://www.youtube.com/watch?v=a8ZdCZVSr4M
 [Spotify]: https://open.spotify.com/user/31ps7jbzdwihlxd7lkri6ajic4gy
-[website]: https://sarthakhanda.github.io/myResume/
+[website]: https://sarthakhanda.github.io/portfolio/
 [instagram]: https://www.instagram.com/sarthakhanda/
 [linkedin]: https://www.linkedin.com/in/sarthak-handa-8491961aa/
 [youtube]: https://www.youtube.com/channel/UCTCFsMfJEnfAr8e8etJbSbg
