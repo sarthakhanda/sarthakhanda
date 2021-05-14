@@ -1,6 +1,6 @@
 ## Hi there, I'm Sarthak - aka [Handa][website] 👋
 
-[![Website](https://img.shields.io/website?label=sarthakhanda.com&style=for-the-badge&url=https://sarthakhanda.github.io/myResume/)][website]
+[![Website](https://img.shields.io/website?label=sarthakhanda.com&style=for-the-badge&url=https://sarthakhanda.github.io/portfolio/)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/SarthakHanda10?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 ## Genius, Developer, Philanthropist & Gentleman.
