@@ -30,13 +30,13 @@
 
 ### 🔗 Connect with me:
 
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='sarthakhanda | GitHub' width="45px" />](https://github.com/sarthakhanda)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='sarthakhanda | GitLab' width="45px" />](https://gitlab.com/sarthakhanda)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='sarthakhanda | YouTube' width="45px" />][youtube]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='sarthakhanda | Instagram' width="45px" />][instagram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='sarthakhanda | LinkedIn' width="45px" />][linkedin]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='sarthakhanda | Twitter' width="45px" />][twitter]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="left" src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='sarthakhanda | Website' width="45px" />][website]
+[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='sarthakhanda | GitHub' width="34px" />](https://github.com/sarthakhanda)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='sarthakhanda | GitLab' width="34px" />](https://gitlab.com/sarthakhanda)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='sarthakhanda | YouTube' width="34px" />][youtube]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='sarthakhanda | Instagram' width="34px" />][instagram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='sarthakhanda | LinkedIn' width="34px" />][linkedin]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='sarthakhanda | Twitter' width="34px" />][twitter]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img align="left" src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='sarthakhanda | Website' width="34px" />][website]
 
 <br />
 
