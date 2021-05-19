@@ -41,9 +41,9 @@
 <img align="left" alt="Android Studio" width="45px" src="https://developer.android.com/studio/images/studio-icon.svg" /><br/><br/><br/>
 <img align="left" alt="IntelliJ IDEA" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><br/><br/><br/>
-<img align="left" alt="Cpp" width="45px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img align="left" alt="Java" width="45px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />
-<img align="left" alt="Kotlin" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /><br/><br/><br/>
+<img align="left" alt="Kotlin" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+<img align="left" alt="Cpp" width="45px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" /><br/><br/><br/>
 <img align="left" alt="GitHub" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 <img align="left" alt="GitLab" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png" />
 <img align="left" alt="Terminal" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
