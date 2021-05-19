@@ -36,7 +36,7 @@
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='sarthakhanda | Instagram' width="45px" />][instagram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='sarthakhanda | LinkedIn' width="45px" />][linkedin]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='sarthakhanda | Twitter' width="45px" />][twitter]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="left" src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='sarthakhanda | Website' width="45px" />][website]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img align="left" src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='sarthakhanda | Website' width="45px" />][website]
 
 <br />
 
@@ -58,7 +58,6 @@
 <img align="left" alt="SQL" width="45px" src="https://i2.wp.com/blogs.perficient.com/files/2015/09/Azure-SQL-Database.png" />
 <img align="left" alt="MySQL" width="45px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" /><br/><br/><br/>
 <img align="left" alt="Adobe Photoshop" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" />
-
 
 <br/>
 
