@@ -1,8 +1,8 @@
 ---
 date: '2017-04-03'
-title: 'myNEU Redesign'
-github: 'https://github.com/bchiang7/Redesign-myNEU'
-external: 'https://bchiang7.github.io/Redesign-myNEU/'
+title: 'Sharing Inc'
+github: 'https://github.com/sarthakhanda/SharingInc'
+external: ''
 tech:
   - Jekyll
   - SCSS

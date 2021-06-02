@@ -1,8 +1,8 @@
 ---
 date: '2020-07-16'
-title: 'Northeastern CSSH'
-github: ''
-external: 'https://cssh.northeastern.edu/'
+title: 'TheBlogChain'
+github: 'https://github.com/sarthakhanda/theblogchain'
+external: ''
 tech:
   - WordPress
   - Timber

@@ -1,8 +1,8 @@
 ---
 date: '2018-05-01'
-title: 'blistabloc'
-github: ''
-external: 'https://blistabloc.com/'
+title: 'Clipping'
+github: 'https://github.com/sarthakhanda/ClippingExample'
+external: ''
 tech:
   - WordPress
   - Timber

@@ -1,8 +1,8 @@
 ---
 date: '2017-12-27'
-title: 'Halcyon Theme'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Mars RealEstate'
+github: 'https://github.com/sarthakhanda/MarsRealEstate'
+external: ''
 tech:
   - VS Code
   - Sublime Text

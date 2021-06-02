@@ -1,8 +1,8 @@
 ---
 date: '2018-12-29'
-title: 'Google Keep Clone'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+title: 'News Today'
+github: 'https://github.com/sarthakhanda/NewsToday'
+external: ''
 tech:
   - Vue
   - Firebase

@@ -1,16 +1,17 @@
 ---
-date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+date: '3'
+title: 'Socio'
+cover: './octoprofile.png'
+github: 'https://github.com/sarthakhanda/Socio'
+external: 'https://octoprofile.now.sh'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Kotlin
+  - Firebase
+  - Room Database
 showInProjects: true
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Built a fully functioning Social Media App, providing a login page for
+authenticating Users using their Google Accounts.
+Designed required schema & populated the database, hosted over Firebase.
+Designed & implemented all the underlying logic to post & pull changes with optimised UI with LiveData preview.

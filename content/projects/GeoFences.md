@@ -1,8 +1,8 @@
 ---
 date: '2020-09-15'
-title: 'Michelle Wu for Boston Grassroots Toolkit'
-github: ''
-external: 'https://toolkit.michelleforboston.com/'
+title: 'GeoFences'
+github: 'https://github.com/sarthakhanda/GeoFences'
+external: ''
 tech:
   - Gatsby
   - Styled Components

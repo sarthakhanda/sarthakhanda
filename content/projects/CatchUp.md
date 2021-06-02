@@ -1,8 +1,8 @@
 ---
 date: '2017-08-01'
-title: 'Interventions'
-github: ''
-external: 'https://interventions.design/'
+title: 'Catch Up'
+github: 'https://github.com/sarthakhanda/CatchUp'
+external: ''
 tech:
   - Jekyll
   - SCSS

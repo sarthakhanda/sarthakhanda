@@ -1,14 +1,16 @@
 ---
-date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+date: '1'
+title: 'Halcyon Theme'
+cover: './halcyon.png'
+github: 'https://github.com/sarthakhanda/MemeShare'
+external: 'https://halcyon-theme.netlify.com/'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Kotlin
+  - Reddit API
+  - Glide Library
+  - Android
+  - Hyper
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.
+A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).

@@ -1,7 +1,7 @@
 ---
 date: '2017-03-01'
-title: 'Crowd DJ'
-github: 'https://github.com/crowddj/crowddj-react'
+title: 'Animation Property'
+github: 'https://github.com/sarthakhanda/AnimationProperty'
 external: ''
 tech:
   - React

@@ -1,8 +1,8 @@
 ---
 date: '2015-10-01'
-title: 'JetBlue HumanKinda'
+title: 'Dice Roller'
 github: ''
-external: 'https://us.mullenlowe.com/work/humankinda/'
+external: 'https://github.com/sarthakhanda/DiceRoller'
 tech:
   - Tumblr
   - HTML

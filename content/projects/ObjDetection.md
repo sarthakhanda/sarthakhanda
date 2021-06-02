@@ -1,8 +1,8 @@
 ---
 date: '2018-10-01'
-title: 'Flagship Pioneering'
-github: ''
-external: 'https://www.flagshippioneering.com/'
+title: 'Object Detection'
+github: 'https://github.com/sarthakhanda/ObjDetection'
+external: ''
 tech:
   - Craft CMS
   - Chart.js

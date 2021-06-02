@@ -1,8 +1,8 @@
 ---
 date: '2018-12-01'
-title: 'Devoted Health'
-github: ''
-external: 'https://www.devoted.com/'
+title: 'Sleep Tracker'
+github: 'https://github.com/sarthakhanda/SleepTracker'
+external: ''
 tech:
   - Gatsby
   - TypeScript

@@ -1,8 +1,8 @@
 ---
 date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
-github: ''
-external: 'https://tools.applemusic.com/en-us'
+title: 'MiniPaint'
+github: 'https://github.com/sarthakhanda/MiniPaint'
+external: ''
 tech:
   - MusicKit.js
   - JS
