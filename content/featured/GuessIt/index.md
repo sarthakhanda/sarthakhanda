@@ -7,9 +7,11 @@ external: ''
 tech:
   - Kotlin
   - Android
-  - Express
-  - Spotify Web API
+  - MVVM Architecture
+  - Android Studio
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A fun group game to play with friends at any party or game night for Android.
+Implemented Model–view–viewmodel Architecture & used [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) for live rendering & excellent user experience.
+Implemented various functions for live updates & smooth experience in Kotlin.

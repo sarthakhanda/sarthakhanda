@@ -1,16 +1,18 @@
 ---
 date: '1'
 title: 'Halcyon Theme'
-cover: './halcyon.png'
+cover: './demo.png'
 github: 'https://github.com/sarthakhanda/MemeShare'
-external: 'https://halcyon-theme.netlify.com/'
+external: ''
 tech:
   - Kotlin
   - Reddit API
   - Glide Library
+  - Volley Library
   - Android
-  - Hyper
 showInProjects: true
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A Meme Sharing App that fetches memes from [Reddit API hosted over Heroku](https://meme-api.herokuapp.com/gimme) & displays it to the user.
+Back-end work included implementation of fetching data from the API using [Volley library](https://developer.android.com/training/volley) & implementation of [Glide library](https://github.com/bumptech/glide) to display images on the frontend.
+Implemented various functions for live updates & smooth experience in Kotlin.

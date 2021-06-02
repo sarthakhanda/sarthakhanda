@@ -1,17 +1,19 @@
 ---
 date: '3'
 title: 'Socio'
-cover: './octoprofile.png'
+cover: './demo.png'
 github: 'https://github.com/sarthakhanda/Socio'
-external: 'https://octoprofile.now.sh'
+external: ''
 tech:
   - Kotlin
-  - Firebase
-  - Room Database
+  - Android
+  - FireStore
+  - Firebase Auth
+  - Glide Library
 showInProjects: true
 ---
 
-Built a fully functioning Social Media App, providing a login page for
-authenticating Users using their Google Accounts.
-Designed required schema & populated the database, hosted over Firebase.
-Designed & implemented all the underlying logic to post & pull changes with optimised UI with LiveData preview.
+A fully functioning Social Media App, that provides a login page which
+authenticate Users using their Google Accounts with [Firebase Auth](https://firebase.google.com/docs/auth).
+Users can create new posts which will be displayed on their feed instantly & will be saved on the online Database hosted over [FireStore Database](https://firebase.google.com/docs/firestore).
+Used [Glide Library](https://github.com/bumptech/glide) to fetch User's display picture from their Google Account, Designed required schema & implemented all the underlying logic to post & pull changes with optimised UI with LiveData preview.
