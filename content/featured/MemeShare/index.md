@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Meme Share'
 cover: './demo.png'
 github: 'https://github.com/sarthakhanda/MemeShare'
 external: ''

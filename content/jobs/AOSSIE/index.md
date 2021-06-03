@@ -2,7 +2,7 @@
 date: '2020-11-07'
 title: 'Open-Source Developer'
 company: 'AOSSIE'
-location: 'Boston, MA'
+location: ''
 range: 'November 2020 - Present'
 url: 'https://aossie.gitlab.io/'
 ---
