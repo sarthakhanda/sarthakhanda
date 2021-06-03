@@ -7,8 +7,7 @@ external: ''
 tech:
   - Kotlin
   - Android
-  - FireStore
-  - Firebase Auth
+  - Firebase
   - Glide Library
 showInProjects: true
 ---

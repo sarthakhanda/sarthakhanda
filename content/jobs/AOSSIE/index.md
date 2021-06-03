@@ -4,9 +4,9 @@ title: 'Open-Source Developer'
 company: 'AOSSIE'
 location: 'Boston, MA'
 range: 'November 2020 - Present'
-url: 'https://starry.com/'
+url: 'https://aossie.gitlab.io/'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- Fixed & maintained major features of [Agora Vote's](https://gitlab.com/aossie/agora-android) customer-facing Android app.
+- Implemented scalable solutions to identified issues & bugs, therefore improving User Interface & Experience.
+- Interfaced with maintainers and other developers to ensure thoughtful and coherent user experiences across Agora's Android App.
