@@ -1,6 +1,6 @@
 ## Hi there, I'm Sarthak - aka [Handa][website] 👋
 
-[![Website](https://img.shields.io/website?label=sarthakhanda.com&style=for-the-badge&url=https://sarthakhanda.github.io/portfolio/)][website]
+[![Website](https://img.shields.io/website?label=sarthakhanda.com&style=for-the-badge&url=https://sarthakhanda.netlify.app/)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/SarthakHanda10?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 ### Genius, Developer, Philanthropist & Gentleman.
@@ -11,6 +11,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love cars and watches 💸
  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c2ef1b4f-1901-4eac-b7ae-78be3281e665/deploy-status)][netlify]
 ![Profile views](https://gpvc.arturio.dev/sarthakhanda)
 
 ---
@@ -69,7 +70,8 @@
 
 [vlog]: https://www.youtube.com/watch?v=a8ZdCZVSr4M
 [Spotify]: https://open.spotify.com/user/31ps7jbzdwihlxd7lkri6ajic4gy
-[website]: https://sarthakhanda.github.io/portfolio/
+[website]: https://sarthakhanda.netlify.app/
+[netlify]: https://app.netlify.com/sites/sarthakhanda/deploys
 [instagram]: https://www.instagram.com/sarthakhanda/
 [linkedin]: https://www.linkedin.com/in/sarthak-handa-8491961aa/
 [youtube]: https://www.youtube.com/channel/UCTCFsMfJEnfAr8e8etJbSbg
