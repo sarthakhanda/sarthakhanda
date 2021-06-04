@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Sarthak Handa',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+      'Computer Science Major Graduating in 2023',
+    siteUrl: 'https://sarthakhanda.netlify.app', // No trailing slash allowed!
+    image: '', // Path to your image you placed in the 'static' folder
+    twitterUsername: '@SarthakHanda10',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'SarthakHanda',
+        short_name: 'SarthakHanda',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
