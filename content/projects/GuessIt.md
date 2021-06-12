@@ -1,15 +1,14 @@
 ---
-date: '2015-12-01'
+date: '2021-01-09'
 title: 'GuessIt'
 github: 'https://github.com/sarthakhanda/GuessIt'
 external: ''
 tech:
-  - HTML
-  - SCSS
-  - JS
-  - jQuery
-company: 'MullenLowe'
+  - Kotlin
+  - Android
+  - MVVM Architecture
+  - Android Studio
 showInProjects: false
 ---
 
-Interactive holiday site for MullenLowe built around an algorithm that generated a holiday greeting to each and every person on the planet. Check out this short [video](https://us.mullenlowe.com/work/one-card-for-all/) describing the project.
+A fun group game to play with friends at any party or game night for Android.

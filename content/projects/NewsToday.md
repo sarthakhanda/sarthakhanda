@@ -1,12 +1,13 @@
 ---
-date: '2018-12-29'
+date: '2020-12-27'
 title: 'News Today'
 github: 'https://github.com/sarthakhanda/NewsToday'
 external: ''
 tech:
-  - Vue
-  - Firebase
-showInProjects: true
+  - Android
+  - Kotlin
+  - Android Studio
+  - XML
+company: ''
+showInProjects: false
 ---
-
-A simple Google Keep clone built with Vue and Firebase.

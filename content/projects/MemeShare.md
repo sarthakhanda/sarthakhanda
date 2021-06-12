@@ -1,13 +1,15 @@
 ---
-date: '2015-12-20'
+date: '2021-02-18'
 title: 'MemeShare'
 github: 'https://github.com/sarthakhanda/MemeShare'
 external: ''
 tech:
-  - Jekyll
-  - Bootstrap
-company: 'Northeastern'
+  - Kotlin
+  - Reddit API
+  - Glide Library
+  - Volley Library
+  - Android
 showInProjects: true
 ---
 
-Complete overhaul and redesign of NU Women in Tech's club website using Jekyll, built while serving as web chair on the e-board.
+A Meme Sharing App that fetches memes from [Reddit API hosted over Heroku](https://meme-api.herokuapp.com/gimme) & displays it to the user.

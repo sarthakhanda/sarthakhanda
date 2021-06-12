@@ -1,15 +1,13 @@
 ---
-date: '2019-11-12'
+date: '2020-08-07'
 title: 'Notes'
 github: ''
 external: 'https://github.com/sarthakhanda/Notes'
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
-showInProjects: true
+  - Android
+  - Kotlin
+  - Android Studio
+  - XML
+company: ''
+showInProjects: false
 ---
-
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement

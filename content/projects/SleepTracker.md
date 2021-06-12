@@ -1,14 +1,13 @@
 ---
-date: '2018-12-01'
+date: '2020-08-25'
 title: 'Sleep Tracker'
 github: 'https://github.com/sarthakhanda/SleepTracker'
 external: ''
 tech:
-  - Gatsby
-  - TypeScript
-  - Algolia
-company: 'Upstatement'
+  - Android
+  - Kotlin
+  - Android Studio
+  - XML
+company: ''
 showInProjects: false
 ---
-
-A site for a revolutionary healthcare company, including an Algolia instant search integration

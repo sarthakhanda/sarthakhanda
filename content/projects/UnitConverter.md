@@ -1,15 +1,17 @@
 ---
-date: '2017-06-22'
+date: '2021-05-16'
 title: 'Unit Converter'
 github: 'https://github.com/sarthakhanda/FlutterApp'
 external: ''
 tech:
-  - Python
-  - MySQL
-  - Flask
-  - JS
-company: 'Northeastern'
-showInProjects: false
+  - Dart
+  - JavaScript
+  - Objective-C
+  - Shell
+  - Java
+  - Flutter
+company: ''
+showInProjects: true
 ---
 
-A simple web application that allows users to filter through and leave reviews in a database of Lonely Planet's Top 500 Travel Destinations.
+A unit converter app that converts units in 8 categories (Length, Area, Volume, Mass, Time, Digital Storage, Energy, and Currency).

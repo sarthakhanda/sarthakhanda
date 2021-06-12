@@ -1,15 +1,13 @@
 ---
-date: '2015-10-01'
+date: '2019-09-27'
 title: 'Dice Roller'
 github: ''
 external: 'https://github.com/sarthakhanda/DiceRoller'
 tech:
-  - Tumblr
-  - HTML
-  - CSS
-  - JS
-company: 'MullenLowe'
+  - Android
+  - Kotlin
+  - Android Studio
+  - XML
+company: ''
 showInProjects: false
 ---
-
-Tumblr site complementing JetBlue's HumanKinda campaign and documentary. Includes an interactive quiz to determine how "HumanKinda" you are. Learn more about this project [here](https://us.mullenlowe.com/work/humankinda/).

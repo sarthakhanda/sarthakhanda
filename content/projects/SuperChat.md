@@ -1,5 +1,5 @@
 ---
-date: '2016-11-16'
+date: '2020-04-07'
 title: 'SuperChat'
 github: 'https://github.com/sarthakhanda/superchat'
 external: ''
@@ -7,7 +7,6 @@ tech:
   - Node
   - React
   - Firebase
+company: ''
 showInProjects: false
 ---
-
-Simple weather app made with Node.js, Express, and Heroku. Utilized the OpenWeatherMap API and Google Maps API.

@@ -1,15 +1,13 @@
 ---
-date: '2016-04-01'
+date: '2019-08-16'
 title: 'Birthday Greet'
 github: 'https://github.com/sarthakhanda/BirthdayGreet'
 external: ''
 tech:
-  - Angular
-  - Node
-  - Express
-  - MongoDB
-company: 'Northeastern'
+  - Android
+  - Kotlin
+  - Android Studio
+  - XML
+company: ''
 showInProjects: false
 ---
-
-Web application built on the MEAN (MongoDB, Express, Angular, Node) stack with the intention of providing Northeastern students a better experience browsing the courses offered at Northeastern.

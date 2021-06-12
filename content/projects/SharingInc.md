@@ -1,14 +1,13 @@
 ---
-date: '2017-04-03'
+date: '2019-09-18'
 title: 'Sharing Inc'
 github: 'https://github.com/sarthakhanda/SharingInc'
-external: ''
+external: 'https://sharinginc.github.io/SharingInc/'
 tech:
-  - Jekyll
-  - SCSS
-  - JS
-company: 'Northeastern'
+  - JavaScript 
+  - PHP
+  - HTML
+  - CSS
+company: ''
 showInProjects: false
 ---
-
-Student web portal prototype built after conducting multiple rounds of user testing that aimed to improve the current portal to provide students at Northeastern University with a better user experience.

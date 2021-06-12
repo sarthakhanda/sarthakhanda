@@ -3,8 +3,7 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'Sarthak Handa',
-    description:
-      'Computer Science Major Graduating in 2023',
+    description: 'Computer Science Major Graduating in 2023',
     siteUrl: 'https://sarthakhanda.netlify.app', // No trailing slash allowed!
     image: '', // Path to your image you placed in the 'static' folder
     twitterUsername: '@SarthakHanda10',

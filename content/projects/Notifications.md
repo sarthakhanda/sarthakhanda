@@ -1,12 +1,18 @@
 ---
-date: '2016-01-01'
+date: '2020-11-09'
 title: 'Notifications'
 github: 'https://github.com/sarthakhanda/Notifications'
 external: ''
 tech:
-  - HTML
-  - SCSS
+  - Android
+  - Kotlin
+  - Firebase
+  - XML
+company: ''
 showInProjects: true
 ---
 
-Simple website to display some of my favorite font pairings combined with some fun lorem ipsum variations found on the web.
+EggTimer is a timer app for cooking eggs.
+Add notitications to the eggtimer app.
+Use channels and importance for the app notifications. 
+Customize and style the notifications.

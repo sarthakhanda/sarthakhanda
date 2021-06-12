@@ -1,13 +1,14 @@
 ---
-date: '2019-07-15'
+date: '2021-01-27'
 title: 'Socio'
 github: 'https://github.com/sarthakhanda/Socio'
 external: ''
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
-showInProjects: false
+  - Kotlin
+  - Android
+  - Firebase
+  - Glide Library
+showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+A fully functioning Social Media App, that authenticate Users using their Google Accounts with [Firebase Auth](https://firebase.google.com/docs/auth).
