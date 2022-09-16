@@ -3,7 +3,7 @@ date: '2018-01-07'
 title: 'Web Development Intern'
 company: 'Modern Structures'
 location: 'NOIDA, UP, India'
-range: 'January - March 2018'
+range: 'January 2018 - March 2018'
 url: 'https://g.page/modern-structures?share'
 ---
 

@@ -1,9 +1,9 @@
 ---
-date: '2020-11-07'
+date: '2020-01-07'
 title: 'Open-Source Developer'
 company: 'AOSSIE'
-location: ''
-range: 'November 2020 - Present'
+location: 'Remote'
+range: 'November 2020 - May 2021'
 url: 'https://aossie.gitlab.io/'
 ---
 

@@ -63,7 +63,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I translate solutions into code!</h3>;
   const four = (
     <p>
-      I'm a Third Year Student at{' '}
+      I'm a Final Year Student at{' '}
       <a href="https://www.jiit.ac.in/">JIIT, Noida</a> (pursuing BTech in Computer Science &amp; Engineering) who specializes in building &amp; designing
       exceptional digital experiences!
     </p>
