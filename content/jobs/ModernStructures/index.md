@@ -1,5 +1,5 @@
 ---
-date: '2018-01-07'
+date: '2018-01-01'
 title: 'Web Development Intern'
 company: 'Modern Structures'
 location: 'NOIDA, UP, India'

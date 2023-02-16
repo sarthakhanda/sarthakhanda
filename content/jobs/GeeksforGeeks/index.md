@@ -1,5 +1,5 @@
 ---
-date: '2022-01-07'
+date: '2022-01-01'
 title: 'Android Developer Intern'
 company: 'GeeksforGeeks'
 location: 'NOIDA, UP, India'
