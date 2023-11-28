@@ -143,8 +143,8 @@ const About = () => {
             <p>
               Fast-forward to today, I've had the privilege of getting my desired course at{' '}
               <a href="https://www.jiit.ac.in/">JIIT</a>.
-              My main focus these days is learning &amp; building essential, optimised mobile apps 
-              for Android &amp; IOS using various Technologies, Frameworks &amp; Languages for my{' '}
+              My main focus these days is learning &amp; building essential, optimised 
+              softwares using various Technologies, Frameworks &amp; Languages for my{' '}
               <a href="">Portfolio.</a>
             </p>
 
