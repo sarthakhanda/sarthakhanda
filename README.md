@@ -37,7 +37,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='sarthakhanda | Twitter' height='40'>][twitter]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='sarthakhanda | Website' height='40'>][website]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<!-- ### 💻 Languages and Tools:
+### 💻 Languages and Tools:
 
 <img align="left" alt="Android Studio" width="45px" src="https://developer.android.com/studio/images/studio-icon.svg" /><br/><br/><br/>
 <img align="left" alt="IntelliJ IDEA" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
@@ -56,17 +56,17 @@
 <img align="left" alt="MySQL" width="45px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" /><br/><br/><br/>
 <img align="left" alt="Adobe Photoshop" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" />
 
-<br/> -->
+<br/>
 
 ---
 
 ### 📈 GitHub Stats
 
 ![GitHub metrics](https://metrics.lecoq.io/sarthakhanda)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakhanda)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakhanda)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sarthakhanda)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakhanda&show_icons=true)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sarthakhanda) -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sarthakhanda)
 
 [vlog]: https://www.youtube.com/watch?v=a8ZdCZVSr4M
 [Spotify]: https://open.spotify.com/user/31ps7jbzdwihlxd7lkri6ajic4gy
